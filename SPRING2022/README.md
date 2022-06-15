@@ -1,5 +1,5 @@
 
-# ACTIVE PROJECTS
+# PAST PROJECTS
 
 > Please, feel free to take a look at our projects of Spring 2022!
 

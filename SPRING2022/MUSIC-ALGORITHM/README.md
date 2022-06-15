@@ -47,6 +47,6 @@ Music Recommendation Algorithm that finds you the song you would actually enjoy!
 
 ## Acknowledgements
 
-- *This project borrowed knowledges from __[this precedence post]([https://www.example.co](https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html)m)__.*
+- *This project borrowed knowledges from __[this precedence post](https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html)__.*
 
 ![DAISICON](DAISICON_BOTTOM.png)
